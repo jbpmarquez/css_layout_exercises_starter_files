@@ -1,0 +1,51 @@
+body {
+	padding:30px;
+}
+
+.container{
+	width: 800px;
+	/*height: 500px;*/
+	font-size: 0;
+	
+}
+
+.box {
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+
+.green{
+	background-color: green;
+	width: 50%;
+	height: 200px;
+}
+
+.blue{
+	background-color: blue;
+	width: 50%;
+	height: 200px;
+}
+
+.black{
+	background-color: black;
+	width: 33.33%;
+	height: 300px;
+}
+
+.grey{
+	background-color: grey;
+	width: 33.33%;
+	height: 300px;
+}
+
+.gold{
+	background-color: gold;
+	width: 33.33%;
+	height: 300px;
+}
+
+.center {
+  text-align: center;
+}
